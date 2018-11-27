@@ -1,8 +1,7 @@
-package Controller;
+package com.qccsalumni.project_blog.Controller;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
 
 @Component("helloController")
 public class HelloController {
